@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956114488224",
+    "firebase_url": "https://ardzz-ce3d3.firebaseio.com",
+    "project_id": "ardzz-ce3d3",
+    "storage_bucket": "ardzz-ce3d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956114488224:android:cb37a01f00a8048e4fb2c5",
+        "android_client_info": {
+          "package_name": "com.rekyuts.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956114488224-l40jso9p503tkd1bt805642b2a17eloa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTaOekk49KdgQAb2LVlPvSjSJdl3n-G9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956114488224-56rd8eransrbos5943mosv06nqljstoi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956114488224-0hh1brh1f075083a0aeolepa0e81pv4d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
